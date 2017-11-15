@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layoutDirection="ltr"
+
+
+
+
+    >
+
+
+    <TextView
+
+        android:id="@+id/tvSeries_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="23sp"
+        android:background="@drawable/item_selector"
+        android:textColor="#f9f8f8"
+
+        android:text="hello"
+
+        android:paddingLeft="25dp"
+        android:paddingStart="25dp"
+        android:paddingTop="20dp"
+        android:paddingBottom="20dp"
+
+        />
+
+
+
+</LinearLayout>

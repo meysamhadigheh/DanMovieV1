@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">DanMovieV1</string>
+    <string name="search_title">search tvseries</string>
+    <string name="search_hint">search tvseries</string>
+
+</resources>
