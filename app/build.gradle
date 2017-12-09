@@ -3,7 +3,6 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion '26.0.1'
     defaultConfig {
         applicationId "ir.meysam.com.danmoviev1"
         minSdkVersion 16
@@ -12,9 +11,7 @@ android {
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
-        jackOptions {
-            enabled true
-        }
+
     }
     buildTypes {
         release {
